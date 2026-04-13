@@ -8,6 +8,11 @@
 - [Linkedin Learning](https://linkedin.com/learning/postgresql-essential-training-22611610)
 - [Youtube Video](https://www.youtube.com/watch?v=0sOvCWFmrtA)
 
+- Pydantic
+- SQL Alchemy
+- Alembic
+- Pytest
+
 ## KANBAN BOARD
 https://github.com/users/priscillaabhulimen/projects/4
 
